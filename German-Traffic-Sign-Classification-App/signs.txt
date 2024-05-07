@@ -1,0 +1,43 @@
+Maximum speed limit is 20 (km/h)
+Maximum speed limit is 30 (km/h)
+Maximum speed limit is 50 (km/h)
+Maximum speed limit is 60 (km/h)
+Maximum speed limit is 70 (km/h)
+Maximum speed limit is 80 (km/h)
+End of speed limit is (km/h)
+Maximum speed limit is 100 (km/h)
+Maximum speed limit is 120 (km/h)
+No passing not overtake other vehicles
+No passing for vehicles over 3,5 tonnes
+Priority
+Priority road
+Yield
+Stop
+Road closed
+Vehicles over 3,5 tonnes prohibited
+Do not enter
+General danger
+Left Curve
+Right Curve
+Double curve
+Uneven road surface
+Slippery when wet or dirty
+Road narrows
+Roadworks
+Traffic signals ahead
+Pedestrians
+Watch for children
+Bicycle crossing
+Ice / snow
+Wild animal crossing
+End of all restrictions
+Turn right ahead
+Turn left ahead
+Ahead only
+Ahead or turn right only
+Ahead or turn left only
+Pass by on right
+Pass by on left
+Roundabout
+End of no passing zone
+End of no passing zone for trucks
